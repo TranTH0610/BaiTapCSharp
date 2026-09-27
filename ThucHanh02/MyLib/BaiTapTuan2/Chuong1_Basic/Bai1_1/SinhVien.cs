@@ -10,6 +10,28 @@ public class SinhVien
         Hoten ="";
         NamSinh = 0;
     }
+    public string SinhVienHoten
+    {
+        get
+        {
+            return Hoten;
+        }
+        set
+        {
+            Hoten = value;
+        }
+    }
+    public int SinhVienNamSinh
+    {
+        get
+        {
+            return NamSinh;
+        }
+        set
+        {
+            NamSinh = value;
+        }
+    }
     //Method
     // Ham Nhập
     public void nhap()
