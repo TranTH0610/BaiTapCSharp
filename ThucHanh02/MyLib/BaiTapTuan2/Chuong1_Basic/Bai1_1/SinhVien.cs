@@ -1,5 +1,6 @@
 using System;
 namespace MyLib.Chuong1_Basic.Bai1_1;
+
 public class SinhVien
 {
     // Field

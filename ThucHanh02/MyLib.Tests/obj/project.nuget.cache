@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Do9VW3NJFw=",
+  "dgSpecHash": "zEJcbOane1c=",
   "success": true,
-  "projectFilePath": "D:\\2.C#C++\\C #\\Tuần 2\\ThucHanh02\\MyLib.Tests\\MyLib.Tests.csproj",
+  "projectFilePath": "D:\\2.C#C++\\C #\\Tuần 2\\ThucHanh02\\Mylib.Tests\\MyLib.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gauba\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\gauba\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

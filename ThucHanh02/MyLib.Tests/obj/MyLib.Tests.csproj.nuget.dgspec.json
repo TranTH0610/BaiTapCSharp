@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2.C#C++\\C #\\Tuần 2\\ThucHanh02\\MyLib.Tests\\MyLib.Tests.csproj": {}
+    "D:\\2.C#C++\\C #\\Tuần 2\\ThucHanh02\\Mylib.Tests\\MyLib.Tests.csproj": {}
   },
   "projects": {
-    "D:\\2.C#C++\\C #\\Tuần 2\\ThucHanh02\\MyLib.Tests\\MyLib.Tests.csproj": {
+    "D:\\2.C#C++\\C #\\Tuần 2\\ThucHanh02\\Mylib.Tests\\MyLib.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2.C#C++\\C #\\Tuần 2\\ThucHanh02\\MyLib.Tests\\MyLib.Tests.csproj",
+        "projectUniqueName": "D:\\2.C#C++\\C #\\Tuần 2\\ThucHanh02\\Mylib.Tests\\MyLib.Tests.csproj",
         "projectName": "MyLib.Tests",
-        "projectPath": "D:\\2.C#C++\\C #\\Tuần 2\\ThucHanh02\\MyLib.Tests\\MyLib.Tests.csproj",
+        "projectPath": "D:\\2.C#C++\\C #\\Tuần 2\\ThucHanh02\\Mylib.Tests\\MyLib.Tests.csproj",
         "packagesPath": "C:\\Users\\gauba\\.nuget\\packages\\",
-        "outputPath": "D:\\2.C#C++\\C #\\Tuần 2\\ThucHanh02\\MyLib.Tests\\obj\\",
+        "outputPath": "D:\\2.C#C++\\C #\\Tuần 2\\ThucHanh02\\Mylib.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
