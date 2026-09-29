@@ -412,14 +412,14 @@
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "MyLib/1.0.0": {
+      "Mylib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "compile": {
-          "bin/placeholder/MyLib.dll": {}
+          "bin/placeholder/Mylib.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MyLib.dll": {}
+          "bin/placeholder/Mylib.dll": {}
         }
       }
     }
@@ -943,16 +943,16 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "MyLib/1.0.0": {
+    "Mylib/1.0.0": {
       "type": "project",
-      "path": "../MyLib/MyLib.csproj",
-      "msbuildProject": "../MyLib/MyLib.csproj"
+      "path": "../Mylib/Mylib.csproj",
+      "msbuildProject": "../Mylib/Mylib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.NET.Test.Sdk >= 17.12.0",
-      "MyLib >= 1.0.0",
+      "Mylib >= 1.0.0",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
       "xunit.runner.visualstudio >= 2.8.2"
@@ -990,8 +990,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\MyLib\\MyLib.csproj": {
-              "projectPath": "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\MyLib\\MyLib.csproj"
+            "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\Mylib\\Mylib.csproj": {
+              "projectPath": "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\Mylib\\Mylib.csproj"
             }
           }
         }

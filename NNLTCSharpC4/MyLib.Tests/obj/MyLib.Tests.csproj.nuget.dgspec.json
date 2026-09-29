@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\MyLib\\MyLib.csproj": {
-                "projectPath": "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\MyLib\\MyLib.csproj"
+              "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\Mylib\\Mylib.csproj": {
+                "projectPath": "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\Mylib\\Mylib.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\MyLib\\MyLib.csproj": {
+    "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\Mylib\\Mylib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\MyLib\\MyLib.csproj",
-        "projectName": "MyLib",
-        "projectPath": "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\MyLib\\MyLib.csproj",
+        "projectUniqueName": "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\Mylib\\Mylib.csproj",
+        "projectName": "Mylib",
+        "projectPath": "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\Mylib\\Mylib.csproj",
         "packagesPath": "C:\\Users\\gauba\\.nuget\\packages\\",
-        "outputPath": "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\MyLib\\obj\\",
+        "outputPath": "D:\\2.C#C++\\C #\\Tuần 2\\NNLTCSharpC4\\Mylib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
