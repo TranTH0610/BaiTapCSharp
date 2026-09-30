@@ -24,10 +24,10 @@ class Program
 
         // Bài 3
         //Bai3_1.Run();
-        Bai3_2.Run();
+        //Bai3_2.Run();
 
         // Bài 5
-        //Bai5_1.Run();
+        Bai5_1.Run();
         //Bai5_2.Run();
 
         // Bài 6
