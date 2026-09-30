@@ -1,0 +1,15 @@
+D:\2.C#C++\C #\BaiThucHanhLINQ\BaiThucHanhLINQ\bin\Debug\net9.0\BaiThucHanhLINQ.exe
+D:\2.C#C++\C #\BaiThucHanhLINQ\BaiThucHanhLINQ\bin\Debug\net9.0\BaiThucHanhLINQ.deps.json
+D:\2.C#C++\C #\BaiThucHanhLINQ\BaiThucHanhLINQ\bin\Debug\net9.0\BaiThucHanhLINQ.runtimeconfig.json
+D:\2.C#C++\C #\BaiThucHanhLINQ\BaiThucHanhLINQ\bin\Debug\net9.0\BaiThucHanhLINQ.dll
+D:\2.C#C++\C #\BaiThucHanhLINQ\BaiThucHanhLINQ\bin\Debug\net9.0\BaiThucHanhLINQ.pdb
+D:\2.C#C++\C #\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.C#C++\C #\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ.AssemblyInfoInputs.cache
+D:\2.C#C++\C #\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ.AssemblyInfo.cs
+D:\2.C#C++\C #\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ.csproj.CoreCompileInputs.cache
+D:\2.C#C++\C #\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ.sourcelink.json
+D:\2.C#C++\C #\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ.dll
+D:\2.C#C++\C #\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\refint\BaiThucHanhLINQ.dll
+D:\2.C#C++\C #\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ.pdb
+D:\2.C#C++\C #\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ.genruntimeconfig.cache
+D:\2.C#C++\C #\BaiThucHanhLINQ\BaiThucHanhLINQ\obj\Debug\net9.0\ref\BaiThucHanhLINQ.dll
