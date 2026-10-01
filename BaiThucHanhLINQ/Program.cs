@@ -19,19 +19,19 @@ class Program
             "==============================================");
 
         // Bài 2
-        //Bai2_1.Run();
-        //Bai2_2.Run();
+        Bai2_1.Run();
+        Bai2_2.Run();
 
         // Bài 3
-        //Bai3_1.Run();
-        //Bai3_2.Run();
+        Bai3_1.Run();
+        Bai3_2.Run();
 
         // Bài 5
         Bai5_1.Run();
-        //Bai5_2.Run();
+        Bai5_2.Run();
 
         // Bài 6
-        //Bai6_2.Run();
+        Bai6_2.Run();
 
         Console.WriteLine(
             "\n==============================================");
