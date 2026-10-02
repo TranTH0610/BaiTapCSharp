@@ -1,0 +1,15 @@
+D:\2.C#C++\C #\VSCODE\bin\Debug\net9.0\VSCODE.exe
+D:\2.C#C++\C #\VSCODE\bin\Debug\net9.0\VSCODE.deps.json
+D:\2.C#C++\C #\VSCODE\bin\Debug\net9.0\VSCODE.runtimeconfig.json
+D:\2.C#C++\C #\VSCODE\bin\Debug\net9.0\VSCODE.dll
+D:\2.C#C++\C #\VSCODE\bin\Debug\net9.0\VSCODE.pdb
+D:\2.C#C++\C #\VSCODE\obj\Debug\net9.0\VSCODE.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.C#C++\C #\VSCODE\obj\Debug\net9.0\VSCODE.AssemblyInfoInputs.cache
+D:\2.C#C++\C #\VSCODE\obj\Debug\net9.0\VSCODE.AssemblyInfo.cs
+D:\2.C#C++\C #\VSCODE\obj\Debug\net9.0\VSCODE.csproj.CoreCompileInputs.cache
+D:\2.C#C++\C #\VSCODE\obj\Debug\net9.0\VSCODE.dll
+D:\2.C#C++\C #\VSCODE\obj\Debug\net9.0\refint\VSCODE.dll
+D:\2.C#C++\C #\VSCODE\obj\Debug\net9.0\VSCODE.pdb
+D:\2.C#C++\C #\VSCODE\obj\Debug\net9.0\VSCODE.genruntimeconfig.cache
+D:\2.C#C++\C #\VSCODE\obj\Debug\net9.0\ref\VSCODE.dll
+D:\2.C#C++\C #\VSCODE\obj\Debug\net9.0\VSCODE.sourcelink.json
