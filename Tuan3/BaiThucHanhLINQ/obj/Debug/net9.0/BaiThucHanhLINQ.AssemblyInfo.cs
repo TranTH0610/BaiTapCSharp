@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaiThucHanhLINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+587168f3f7a11d88ddaacaa19b8a25084b0a8206")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70199815bc2805a8abfad7624a00cfcba4ca3728")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaiThucHanhLINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaiThucHanhLINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
