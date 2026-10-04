@@ -13,39 +13,12 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
-        private System.Windows.Forms.TextBox txtA;
-        private System.Windows.Forms.TextBox txtB;
-        private System.Windows.Forms.TextBox txtketqua;
-
         public Form1()
         {
             InitializeComponent();
-            if (errorProvider1 == null)
-            {
-                errorProvider1 = new System.Windows.Forms.ErrorProvider();
-                errorProvider1.ContainerControl = this;
-            }
-            if (txtA == null)
-            {
-                txtA = new System.Windows.Forms.TextBox();
-                txtA.Name = "txtA";
-                this.Controls.Add(txtA);
-            }
-            if (txtB == null)
-            {
-                txtB = new System.Windows.Forms.TextBox();
-                txtB.Name = "txtB";
-                this.Controls.Add(txtB);
-            }
-            if (txtketqua == null)
-            {
-                txtketqua = new System.Windows.Forms.TextBox();
-                txtketqua.Name = "txtketqua";
-                this.Controls.Add(txtketqua);
-            }
 
-            txtA.KeyPress += TxtSo_KeyPress;
-            txtB.KeyPress += TxtSo_KeyPress;
+            textBox1.KeyPress += TxtSo_KeyPress;
+            textBox2.KeyPress += TxtSo_KeyPress;
 
         }
 
@@ -66,22 +39,22 @@ namespace WindowsFormsApp1
         }
         private bool KiemTraSoA()
         {
-            if (string.IsNullOrWhiteSpace(txtA.Text))
+            if (string.IsNullOrWhiteSpace(textBox1.Text))
             {
-                errorProvider1.SetError(txtA,"Vui long nhap so A: ");
+                errorProvider1.SetError(textBox1, "Vui long nhap so A: ");
                 return false;
             }
-            errorProvider1.SetError(txtA, "");
+            errorProvider1.SetError(textBox1, "");  
             return true;
         }
         private bool KiemTraSoB()
         {
-            if (string.IsNullOrWhiteSpace(txtB.Text))
+            if (string.IsNullOrWhiteSpace(textBox2.Text))
             {
-                errorProvider1.SetError(txtB,"Vui long nhap so B: ");
+                errorProvider1.SetError(textBox2, "Vui long nhap so B: ");
                 return false;
             }
-            errorProvider1.SetError(txtB, "");
+            errorProvider1.SetError(textBox2, "");
             return true;
         }
         private bool KiemTraDuLieu( out int a, out int b)
@@ -95,24 +68,77 @@ namespace WindowsFormsApp1
                 MessageBox.Show(" Vui long nhap day du so !", "Thong bao", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return false;
             }
-            if (!int.TryParse(txtA.Text, out a) || !int.TryParse(txtB.Text, out b))
+            if (!int.TryParse(textBox1.Text, out a) || !int.TryParse(textBox2.Text, out b))
             {
                 MessageBox.Show(" Vui long nhap dung dinh dang so !", "Thong bao", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return false;
             }
             return true;
         }
-        private void BtnCong_Click(object sender, EventArgs e)
+
+    
+        private void textBox3_TextChanged(object sender, EventArgs e)
         {
-            if(!KiemTraDuLieu(out int a, out int b))
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            KiemTraSoB();
+        }
+        
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (!KiemTraDuLieu(out int a, out int b))
+            {
+                return;
+            }
+            if (b == 0)
+            {
+                MessageBox.Show("khong the chia cho 0", "vui long nhap lai!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }    
+        
+            double ketqua = (double)a / b;
+            textBox3.Text = ketqua.ToString();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (!KiemTraDuLieu(out int a, out int b))
+            {
+                return;
+            }
+            int ketqua = a * b;
+            textBox3.Text = ketqua.ToString();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (!KiemTraDuLieu(out int a, out int b))
+            {
+                return;
+            }
+            int ketqua = a - b;
+            textBox3.Text = ketqua.ToString();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (!KiemTraDuLieu(out int a, out int b))
             {
                 return;
             }
             int ketqua = a + b;
-            txtketqua.Text = ketqua.ToString();
+            textBox3.Text = ketqua.ToString();
         }
 
-        private void textBox3_TextChanged(object sender, EventArgs e)
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            KiemTraSoA();
+        }
+
+        private void label3_Click(object sender, EventArgs e)
         {
 
         }
