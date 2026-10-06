@@ -9,3 +9,7 @@ D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\WindowsForms\WindowsFormsApp1\bin
 D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\WindowsForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\WindowsForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\WindowsForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\WindowsForms\CongTruNhanChia\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\WindowsForms\CongTruNhanChia\obj\Debug\WindowsFormsApp1.exe.config
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\WindowsForms\CongTruNhanChia\obj\Debug\WindowsFormsApp1.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\WindowsForms\CongTruNhanChia\obj\Debug\WindowsFormsApp1.pdb

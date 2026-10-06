@@ -1,0 +1,11 @@
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\DangKiTaiKhoan\DangKiTaiKhoan\obj\Debug\DangKiTaiKhoan.csproj.AssemblyReference.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\DangKiTaiKhoan\DangKiTaiKhoan\obj\Debug\DangKiTaiKhoan.Form1.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\DangKiTaiKhoan\DangKiTaiKhoan\obj\Debug\DangKiTaiKhoan.Properties.Resources.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\DangKiTaiKhoan\DangKiTaiKhoan\obj\Debug\DangKiTaiKhoan.csproj.GenerateResource.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\DangKiTaiKhoan\DangKiTaiKhoan\obj\Debug\DangKiTaiKhoan.csproj.CoreCompileInputs.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\DangKiTaiKhoan\DangKiTaiKhoan\bin\Debug\DangKiTaiKhoan.exe.config
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\DangKiTaiKhoan\DangKiTaiKhoan\bin\Debug\DangKiTaiKhoan.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\DangKiTaiKhoan\DangKiTaiKhoan\bin\Debug\DangKiTaiKhoan.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\DangKiTaiKhoan\DangKiTaiKhoan\obj\Debug\DangKiTaiKhoan.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\DangKiTaiKhoan\DangKiTaiKhoan\obj\Debug\DangKiTaiKhoan.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\DangKiTaiKhoan\DangKiTaiKhoan\obj\Debug\DangKiTaiKhoan.exe.config
