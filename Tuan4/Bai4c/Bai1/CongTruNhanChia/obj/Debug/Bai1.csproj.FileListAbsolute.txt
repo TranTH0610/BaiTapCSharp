@@ -13,3 +13,14 @@ D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\WindowsForms\CongTruNhanChia\obj\
 D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\WindowsForms\CongTruNhanChia\obj\Debug\WindowsFormsApp1.exe.config
 D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\WindowsForms\CongTruNhanChia\obj\Debug\WindowsFormsApp1.exe
 D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\WindowsForms\CongTruNhanChia\obj\Debug\WindowsFormsApp1.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\Bai1\CongTruNhanChia\bin\Debug\WindowsFormsApp1.exe.config
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\Bai1\CongTruNhanChia\bin\Debug\WindowsFormsApp1.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\Bai1\CongTruNhanChia\bin\Debug\WindowsFormsApp1.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\Bai1\CongTruNhanChia\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\Bai1\CongTruNhanChia\obj\Debug\WindowsFormsApp1.exe.config
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\Bai1\CongTruNhanChia\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\Bai1\CongTruNhanChia\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\Bai1\CongTruNhanChia\obj\Debug\Bai1.csproj.GenerateResource.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\Bai1\CongTruNhanChia\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\Bai1\CongTruNhanChia\obj\Debug\WindowsFormsApp1.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan4\Bai4c\Bai1\CongTruNhanChia\obj\Debug\WindowsFormsApp1.pdb

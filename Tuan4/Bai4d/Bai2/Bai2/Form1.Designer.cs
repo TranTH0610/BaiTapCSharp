@@ -246,9 +246,9 @@
             this.grpTimKiem.Controls.Add(this.txtTimViTri);
             this.grpTimKiem.Controls.Add(this.lblSoTimDuoc);
             this.grpTimKiem.Controls.Add(this.txtSoTimDuoc);
-            this.grpTimKiem.Location = new System.Drawing.Point(30, 240);
+            this.grpTimKiem.Location = new System.Drawing.Point(12, 240);
             this.grpTimKiem.Name = "grpTimKiem";
-            this.grpTimKiem.Size = new System.Drawing.Size(220, 115);
+            this.grpTimKiem.Size = new System.Drawing.Size(238, 115);
             this.grpTimKiem.TabIndex = 9;
             this.grpTimKiem.TabStop = false;
             this.grpTimKiem.Text = "Tìm Kiếm";
@@ -370,9 +370,9 @@
             this.grpThem.Controls.Add(this.lblTaiViTriThem);
             this.grpThem.Controls.Add(this.txtTaiViTriThem);
             this.grpThem.Controls.Add(this.lblCanSapXepTang2);
-            this.grpThem.Location = new System.Drawing.Point(30, 365);
+            this.grpThem.Location = new System.Drawing.Point(12, 365);
             this.grpThem.Name = "grpThem";
-            this.grpThem.Size = new System.Drawing.Size(220, 105);
+            this.grpThem.Size = new System.Drawing.Size(238, 105);
             this.grpThem.TabIndex = 11;
             this.grpThem.TabStop = false;
             this.grpThem.Text = "Thêm";
@@ -380,7 +380,7 @@
             // rdoThemGiaTri
             // 
             this.rdoThemGiaTri.AutoSize = true;
-            this.rdoThemGiaTri.Location = new System.Drawing.Point(15, 25);
+            this.rdoThemGiaTri.Location = new System.Drawing.Point(6, 25);
             this.rdoThemGiaTri.Name = "rdoThemGiaTri";
             this.rdoThemGiaTri.Size = new System.Drawing.Size(143, 20);
             this.rdoThemGiaTri.TabIndex = 0;
@@ -397,7 +397,7 @@
             // lblTaiViTriThem
             // 
             this.lblTaiViTriThem.AutoSize = true;
-            this.lblTaiViTriThem.Location = new System.Drawing.Point(15, 55);
+            this.lblTaiViTriThem.Location = new System.Drawing.Point(7, 55);
             this.lblTaiViTriThem.Name = "lblTaiViTriThem";
             this.lblTaiViTriThem.Size = new System.Drawing.Size(116, 16);
             this.lblTaiViTriThem.TabIndex = 2;

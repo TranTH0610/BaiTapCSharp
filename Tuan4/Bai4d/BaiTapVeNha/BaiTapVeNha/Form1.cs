@@ -10,13 +10,16 @@ using System.Windows.Forms;
 
 namespace BaiTapVeNha
 {
-    public partial class Form1 : Form
+  public partial class Form1 : Form
     {
         // ============================================
         // BIẾN LƯU TỔNG KẾT
         // ============================================
 
+        // Tổng số lượt người đã trả phòng
         private int tongSoLuotNguoi = 0;
+
+        // Tổng số tiền thu được
         private decimal tongSoTien = 0;
 
         // ============================================
@@ -51,20 +54,20 @@ namespace BaiTapVeNha
 
         private void frmDangkyKS_Load(object sender, EventArgs e)
         {
-            // Đặt con trỏ vào ô họ tên
+            // Đưa con trỏ vào ô họ tên
             txtHoTen.Focus();
 
-            // Trạng thái ban đầu
-            btnThanhToan.Enabled = false;
-            btnNhapMoi.Enabled = false;
+            // Các button ban đầu bị mờ
             btnTongKet.Enabled = false;
+            btnNhapMoi.Enabled = false;
+            btnThanhToan.Enabled = false;
 
-            // Xóa kết quả cũ
+            // Xóa dữ liệu kết quả
             txtThanhTien.Clear();
             txtSoLuotNguoi.Clear();
             txtTongSoTien.Clear();
 
-            // Tổng ban đầu
+            // Khởi tạo tổng
             tongSoLuotNguoi = 0;
             tongSoTien = 0;
         }
@@ -80,23 +83,23 @@ namespace BaiTapVeNha
 
             int soNgay;
 
+            // Kiểm tra số ngày ở
             bool ngayHopLe =
-                int.TryParse(
-                    txtSoNgayO.Text.Trim(),
-                    out soNgay)
+                int.TryParse(txtSoNgayO.Text.Trim(), out soNgay)
                 && soNgay > 0;
 
+            // Kiểm tra loại phòng
             bool phongHopLe =
-                rdoPhongDon.Checked
-                || rdoPhongDoi.Checked
-                || rdoPhongBa.Checked;
+                rdoPhongDon.Checked ||
+                rdoPhongDoi.Checked ||
+                rdoPhongBa.Checked;
 
-            // Đủ thông tin thì cho phép thanh toán
+            // Nếu nhập đầy đủ thì cho phép thanh toán
             btnThanhToan.Enabled =
-                hoTen != ""
-                && diaChi != ""
-                && ngayHopLe
-                && phongHopLe;
+                hoTen != "" &&
+                diaChi != "" &&
+                ngayHopLe &&
+                phongHopLe;
         }
 
         // ============================================
@@ -105,7 +108,10 @@ namespace BaiTapVeNha
 
         private void btnThanhToan_Click(object sender, EventArgs e)
         {
-            // Kiểm tra họ tên
+            // ----------------------------------------
+            // KIỂM TRA HỌ TÊN
+            // ----------------------------------------
+
             if (string.IsNullOrWhiteSpace(txtHoTen.Text))
             {
                 MessageBox.Show(
@@ -118,7 +124,10 @@ namespace BaiTapVeNha
                 return;
             }
 
-            // Kiểm tra địa chỉ
+            // ----------------------------------------
+            // KIỂM TRA ĐỊA CHỈ
+            // ----------------------------------------
+
             if (string.IsNullOrWhiteSpace(txtDiaChi.Text))
             {
                 MessageBox.Show(
@@ -131,10 +140,15 @@ namespace BaiTapVeNha
                 return;
             }
 
-            // Kiểm tra số ngày
+            // ----------------------------------------
+            // KIỂM TRA SỐ NGÀY
+            // ----------------------------------------
+
+            int soNgay;
+
             if (!int.TryParse(
-                txtSoNgayO.Text.Trim(),
-                out int soNgay)
+                    txtSoNgayO.Text.Trim(),
+                    out soNgay)
                 || soNgay <= 0)
             {
                 MessageBox.Show(
@@ -155,14 +169,17 @@ namespace BaiTapVeNha
 
             if (rdoPhongDon.Checked)
             {
+                // Phòng đơn: 300.000đ/ngày
                 giaPhong = 300000;
             }
             else if (rdoPhongDoi.Checked)
             {
+                // Phòng đôi: 350.000đ/ngày
                 giaPhong = 350000;
             }
             else if (rdoPhongBa.Checked)
             {
+                // Phòng ba: 400.000đ/ngày
                 giaPhong = 400000;
             }
             else
@@ -176,13 +193,13 @@ namespace BaiTapVeNha
                 return;
             }
 
-            decimal tienPhong =
-                giaPhong * soNgay;
+            decimal tienPhong = giaPhong * soNgay;
 
             // ========================================
             // TÍNH TIỀN TIỆN NGHI
             // ========================================
 
+            // Mỗi tiện nghi cộng 10.000đ
             decimal tienTienNghi = 0;
 
             if (chkTivi.Checked)
@@ -206,26 +223,26 @@ namespace BaiTapVeNha
 
             decimal tienDichVu = 0;
 
-            // Karaoke: tính 1 lần
+            // Karaoke: 50.000đ
             if (chkKaraoke.Checked)
             {
                 tienDichVu += 50000;
             }
 
-            // Ăn sáng: tính theo số ngày
+            // Ăn sáng: 15.000đ/ngày
             if (chkAnSang.Checked)
             {
                 tienDichVu += 15000 * soNgay;
             }
 
             // ========================================
-            // TỔNG TIỀN
+            // TÍNH THÀNH TIỀN
             // ========================================
 
             decimal thanhTien =
-                tienPhong
-                + tienTienNghi
-                + tienDichVu;
+                tienPhong +
+                tienTienNghi +
+                tienDichVu;
 
             // Hiển thị thành tiền
             txtThanhTien.Text =
@@ -235,7 +252,8 @@ namespace BaiTapVeNha
             // LƯU TỔNG KẾT
             // ========================================
 
-            tongSoLuotNguoi++;
+
+            // Cộng số người theo loại phòng
             if (rdoPhongDon.Checked)
             {
                 tongSoLuotNguoi += 1;
@@ -248,13 +266,15 @@ namespace BaiTapVeNha
             {
                 tongSoLuotNguoi += 3;
             }
+
+            // Cộng tiền vào tổng
             tongSoTien += thanhTien;
 
             // ========================================
             // CẬP NHẬT BUTTON
             // ========================================
 
-            // Đã thanh toán nên không thanh toán lại
+            // Đã thanh toán → không cho thanh toán lần nữa
             btnThanhToan.Enabled = false;
 
             // Cho phép nhập khách mới
@@ -270,34 +290,36 @@ namespace BaiTapVeNha
 
         private void btnNhapMoi_Click(object sender, EventArgs e)
         {
-            // Xóa thông tin khách cũ
+            // Xóa thông tin khách hàng
             txtHoTen.Clear();
             txtDiaChi.Clear();
             txtSoNgayO.Clear();
 
-            // Xóa thành tiền
-            txtThanhTien.Clear();
+            // Bỏ chọn loại phòng
+            rdoPhongDon.Checked = false;
+            rdoPhongDoi.Checked = false;
+            rdoPhongBa.Checked = false;
 
-            // Trạng thái phòng mặc định
-            rdoPhongDon.Checked = true;
-
-            // Xóa tiện nghi
+            // Bỏ chọn tiện nghi
             chkTivi.Checked = false;
             chkInternet.Checked = false;
             chkMayNuocNong.Checked = false;
 
-            // Xóa dịch vụ
+            // Bỏ chọn dịch vụ
             chkKaraoke.Checked = false;
             chkAnSang.Checked = false;
 
-            // Trạng thái button
+            // Xóa thành tiền
+            txtThanhTien.Clear();
+
+            // Button ban đầu
             btnThanhToan.Enabled = false;
             btnNhapMoi.Enabled = false;
 
-            // Tổng kết vẫn có thể thực hiện
+            // Tổng kết vẫn sáng nếu còn dữ liệu
             btnTongKet.Enabled = tongSoLuotNguoi > 0;
 
-            // Đưa con trỏ về tên khách
+            // Đưa con trỏ về ô họ tên
             txtHoTen.Focus();
         }
 
@@ -315,12 +337,27 @@ namespace BaiTapVeNha
             txtTongSoTien.Text =
                 tongSoTien.ToString("N0") + " VNĐ";
 
-            // Sau khi tổng kết thì đưa biến về 0
+            // Thông báo tổng kết
+            MessageBox.Show(
+                "Tổng số lượt người trả phòng: "
+                + tongSoLuotNguoi
+                + "\nTổng số tiền thu được: "
+                + tongSoTien.ToString("N0")
+                + " VNĐ",
+                "Tổng kết",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Information);
+
+            // Reset tổng sau khi tổng kết
             tongSoLuotNguoi = 0;
             tongSoTien = 0;
 
-            // Không cho tổng kết tiếp khi chưa có khách mới
+            // Nút Tổng kết bị mờ
             btnTongKet.Enabled = false;
+
+            // Không bắt buộc phải sáng btnNhapMoi ở đây
+            // nếu đề yêu cầu nhập lại thì có thể bật
+            btnNhapMoi.Enabled = true;
         }
 
         // ============================================

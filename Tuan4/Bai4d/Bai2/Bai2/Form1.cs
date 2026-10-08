@@ -197,12 +197,9 @@ namespace Bai2
                     " ",
                     mangSoNguyen.LayMang());
 
+            // Chỉ hiển thị kết quả
+            // KHÔNG thay đổi txtNhapMang
             txtKetQuaMang.Text = mang;
-
-            // Đồng bộ mảng hiện tại với ô nhập
-            txtNhapMang.Text = mang;
-
-            mangDaXuLy = mang;
         }
 
         // =========================================================

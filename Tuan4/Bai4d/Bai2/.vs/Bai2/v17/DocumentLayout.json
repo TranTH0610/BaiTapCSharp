@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2.C#C\u002B\u002B\\C #\\BaiTap\\BaiTapCSharp\\Tuan4\\Bai4d\\Bai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B70EC3B7-DD28-4E82-8CC8-E980F19A2BC7}|Bai2\\Bai2.csproj|d:\\2.c#c\u002B\u002B\\c #\\baitap\\baitapcsharp\\tuan4\\bai4d\\bai2\\bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B70EC3B7-DD28-4E82-8CC8-E980F19A2BC7}|Bai2\\Bai2.csproj|solutionrelative:bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70EC3B7-DD28-4E82-8CC8-E980F19A2BC7}|Bai2\\Bai2.csproj|d:\\2.c#c\u002B\u002B\\c #\\baitap\\baitapcsharp\\tuan4\\bai4d\\bai2\\bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70EC3B7-DD28-4E82-8CC8-E980F19A2BC7}|Bai2\\Bai2.csproj|solutionrelative:bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\2.C#C\u002B\u002B\\C #\\BaiTap\\BaiTapCSharp\\Tuan4\\Bai4d\\Bai2\\Bai2\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai2\\Form1.cs",
+              "ToolTip": "D:\\2.C#C\u002B\u002B\\C #\\BaiTap\\BaiTapCSharp\\Tuan4\\Bai4d\\Bai2\\Bai2\\Form1.cs",
+              "RelativeToolTip": "Bai2\\Form1.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAMwIoCAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:03:16.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\2.C#C\u002B\u002B\\C #\\BaiTap\\BaiTapCSharp\\Tuan4\\Bai4d\\Bai2\\Bai2\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai2\\Form1.cs",
+              "ToolTip": "D:\\2.C#C\u002B\u002B\\C #\\BaiTap\\BaiTapCSharp\\Tuan4\\Bai4d\\Bai2\\Bai2\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:02:50.928Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

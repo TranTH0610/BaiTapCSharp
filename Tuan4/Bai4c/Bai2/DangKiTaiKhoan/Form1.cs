@@ -36,7 +36,7 @@ namespace DangKiTaiKhoan
         }
         private void btnDangKy_Click(object sender, EventArgs e)
         {
-            if(!KiemtraDuLieu())
+            if (!KiemtraDuLieu())
             {
                 return;
             }
@@ -76,14 +76,26 @@ namespace DangKiTaiKhoan
             if (string.IsNullOrWhiteSpace(XacNhanMatKhau.Text))
             {
                 MessageBox.Show("Vui lòng nhập xác nhận mật khẩu", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-              XacNhanMatKhau.Focus();
+                XacNhanMatKhau.Focus();
                 return false;
             }
+            if (MatKhau.Text != XacNhanMatKhau.Text)
+            {
+                MessageBox.Show(
+                    "Mật khẩu và xác nhận mật khẩu không khớp!",
+                    "Thông báo",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Warning);
+
+                XacNhanMatKhau.Focus();
+                return false;
+            }
+
             return true;
 
         }
 
-        private void XacNhanMatKhau_Click(object sender,KeyEventArgs e)
+        private void XacNhanMatKhau_Click(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Enter)
             {
@@ -115,12 +127,6 @@ namespace DangKiTaiKhoan
                 email.Focus();
             }
         }
-
-        private void MatKhau_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
-
         private void XacNhanMatKhau_TextChanged(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Enter)
@@ -129,5 +135,11 @@ namespace DangKiTaiKhoan
                 btnDangKy.PerformClick();
             }
         }
+        private void MatKhau_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+
     }
 }
