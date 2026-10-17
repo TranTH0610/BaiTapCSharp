@@ -1,0 +1,10 @@
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\BaiTapVeNha\Bai1\TuDienAnhViet\bin\Debug\TuDienAnhViet.exe.config
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\BaiTapVeNha\Bai1\TuDienAnhViet\bin\Debug\TuDienAnhViet.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\BaiTapVeNha\Bai1\TuDienAnhViet\bin\Debug\TuDienAnhViet.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\BaiTapVeNha\Bai1\TuDienAnhViet\obj\Debug\TuDienAnhViet.csproj.AssemblyReference.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\BaiTapVeNha\Bai1\TuDienAnhViet\obj\Debug\TuDienAnhViet.Form1.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\BaiTapVeNha\Bai1\TuDienAnhViet\obj\Debug\TuDienAnhViet.Properties.Resources.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\BaiTapVeNha\Bai1\TuDienAnhViet\obj\Debug\TuDienAnhViet.csproj.GenerateResource.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\BaiTapVeNha\Bai1\TuDienAnhViet\obj\Debug\TuDienAnhViet.csproj.CoreCompileInputs.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\BaiTapVeNha\Bai1\TuDienAnhViet\obj\Debug\TuDienAnhViet.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\BaiTapVeNha\Bai1\TuDienAnhViet\obj\Debug\TuDienAnhViet.pdb

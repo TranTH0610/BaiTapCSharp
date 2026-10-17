@@ -1,0 +1,11 @@
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\Bai2\QuanLyLop\obj\Debug\QuanLyLop.csproj.AssemblyReference.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\Bai2\QuanLyLop\obj\Debug\QuanLyLop.Form1.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\Bai2\QuanLyLop\obj\Debug\QuanLyLop.Properties.Resources.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\Bai2\QuanLyLop\obj\Debug\QuanLyLop.csproj.GenerateResource.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\Bai2\QuanLyLop\obj\Debug\QuanLyLop.csproj.CoreCompileInputs.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\Bai2\QuanLyLop\bin\Debug\QuanLyLop.exe.config
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\Bai2\QuanLyLop\bin\Debug\QuanLyLop.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\Bai2\QuanLyLop\bin\Debug\QuanLyLop.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\Bai2\QuanLyLop\obj\Debug\QuanLyLop.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\Bai2\QuanLyLop\obj\Debug\QuanLyLop.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5C\Bai2\QuanLyLop\obj\Debug\QuanLyLop.exe.config
