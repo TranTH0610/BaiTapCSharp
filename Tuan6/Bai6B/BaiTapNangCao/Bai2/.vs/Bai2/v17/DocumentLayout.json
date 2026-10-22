@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2.C#C\u002B\u002B\\C #\\BaiTap\\BaiTapCSharp\\Tuan6\\Bai6B\\BaiTapNangCao\\Bai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62D882-68A8-4706-86CB-40A6B8BBC653}|DanhSachSinhVien\\DanhSachSinhVien.csproj|d:\\2.c#c\u002B\u002B\\c #\\baitap\\baitapcsharp\\tuan6\\bai6b\\baitapnangcao\\bai2\\danhsachsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62D882-68A8-4706-86CB-40A6B8BBC653}|DanhSachSinhVien\\DanhSachSinhVien.csproj|solutionrelative:danhsachsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62D882-68A8-4706-86CB-40A6B8BBC653}|DanhSachSinhVien\\DanhSachSinhVien.csproj|d:\\2.c#c\u002B\u002B\\c #\\baitap\\baitapcsharp\\tuan6\\bai6b\\baitapnangcao\\bai2\\danhsachsinhvien\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62D882-68A8-4706-86CB-40A6B8BBC653}|DanhSachSinhVien\\DanhSachSinhVien.csproj|solutionrelative:danhsachsinhvien\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62D882-68A8-4706-86CB-40A6B8BBC653}|DanhSachSinhVien\\DanhSachSinhVien.csproj|d:\\2.c#c\u002B\u002B\\c #\\baitap\\baitapcsharp\\tuan6\\bai6b\\baitapnangcao\\bai2\\danhsachsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F62D882-68A8-4706-86CB-40A6B8BBC653}|DanhSachSinhVien\\DanhSachSinhVien.csproj|solutionrelative:danhsachsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\2.C#C\u002B\u002B\\C #\\BaiTap\\BaiTapCSharp\\Tuan6\\Bai6B\\BaiTapNangCao\\Bai2\\DanhSachSinhVien\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DanhSachSinhVien\\Form1.Designer.cs",
+              "ToolTip": "D:\\2.C#C\u002B\u002B\\C #\\BaiTap\\BaiTapCSharp\\Tuan6\\Bai6B\\BaiTapNangCao\\Bai2\\DanhSachSinhVien\\Form1.Designer.cs",
+              "RelativeToolTip": "DanhSachSinhVien\\Form1.Designer.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAgwOUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T06:38:40.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\2.C#C\u002B\u002B\\C #\\BaiTap\\BaiTapCSharp\\Tuan6\\Bai6B\\BaiTapNangCao\\Bai2\\DanhSachSinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "DanhSachSinhVien\\Form1.cs",
+              "ToolTip": "D:\\2.C#C\u002B\u002B\\C #\\BaiTap\\BaiTapCSharp\\Tuan6\\Bai6B\\BaiTapNangCao\\Bai2\\DanhSachSinhVien\\Form1.cs",
+              "RelativeToolTip": "DanhSachSinhVien\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T06:38:39.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\2.C#C\u002B\u002B\\C #\\BaiTap\\BaiTapCSharp\\Tuan6\\Bai6B\\BaiTapNangCao\\Bai2\\DanhSachSinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "DanhSachSinhVien\\Form1.cs",
+              "ToolTip": "D:\\2.C#C\u002B\u002B\\C #\\BaiTap\\BaiTapCSharp\\Tuan6\\Bai6B\\BaiTapNangCao\\Bai2\\DanhSachSinhVien\\Form1.cs [Design]",
+              "RelativeToolTip": "DanhSachSinhVien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T06:38:36.287Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapVeNha\QLCuaHang\obj\Debug\QLCuaHang.csproj.AssemblyReference.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapVeNha\QLCuaHang\obj\Debug\QLCuaHang.Properties.Resources.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapVeNha\QLCuaHang\obj\Debug\QLCuaHang.csproj.GenerateResource.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapVeNha\QLCuaHang\obj\Debug\QLCuaHang.csproj.CoreCompileInputs.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapVeNha\QLCuaHang\bin\Debug\QLCuaHang.exe.config
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapVeNha\QLCuaHang\bin\Debug\QLCuaHang.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapVeNha\QLCuaHang\bin\Debug\QLCuaHang.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapVeNha\QLCuaHang\obj\Debug\QLCuaHang.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapVeNha\QLCuaHang\obj\Debug\QLCuaHang.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapVeNha\QLCuaHang\obj\Debug\QLCuaHang.exe.config

@@ -1,0 +1,11 @@
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapVeNha\Bai1\DongHoDemNguoc\bin\Debug\DongHoDemNguoc.exe.config
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapVeNha\Bai1\DongHoDemNguoc\bin\Debug\DongHoDemNguoc.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapVeNha\Bai1\DongHoDemNguoc\bin\Debug\DongHoDemNguoc.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapVeNha\Bai1\DongHoDemNguoc\obj\Debug\DongHoDemNguoc.csproj.AssemblyReference.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapVeNha\Bai1\DongHoDemNguoc\obj\Debug\DongHoDemNguoc.Form1.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapVeNha\Bai1\DongHoDemNguoc\obj\Debug\DongHoDemNguoc.Properties.Resources.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapVeNha\Bai1\DongHoDemNguoc\obj\Debug\DongHoDemNguoc.csproj.GenerateResource.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapVeNha\Bai1\DongHoDemNguoc\obj\Debug\DongHoDemNguoc.csproj.CoreCompileInputs.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapVeNha\Bai1\DongHoDemNguoc\obj\Debug\DongHoDemNguoc.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapVeNha\Bai1\DongHoDemNguoc\obj\Debug\DongHoDemNguoc.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapVeNha\Bai1\DongHoDemNguoc\obj\Debug\DongHoDemNguoc.exe.config

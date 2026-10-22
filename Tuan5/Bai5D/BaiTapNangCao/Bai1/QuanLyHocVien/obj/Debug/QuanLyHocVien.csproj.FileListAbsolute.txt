@@ -1,0 +1,11 @@
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapNangCao\Bai1\QuanLyHocVien\bin\Debug\QuanLyHocVien.exe.config
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapNangCao\Bai1\QuanLyHocVien\bin\Debug\QuanLyHocVien.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapNangCao\Bai1\QuanLyHocVien\bin\Debug\QuanLyHocVien.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapNangCao\Bai1\QuanLyHocVien\obj\Debug\QuanLyHocVien.csproj.AssemblyReference.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapNangCao\Bai1\QuanLyHocVien\obj\Debug\QuanLyHocVien.Form1.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapNangCao\Bai1\QuanLyHocVien\obj\Debug\QuanLyHocVien.Form2.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapNangCao\Bai1\QuanLyHocVien\obj\Debug\QuanLyHocVien.Properties.Resources.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapNangCao\Bai1\QuanLyHocVien\obj\Debug\QuanLyHocVien.csproj.GenerateResource.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapNangCao\Bai1\QuanLyHocVien\obj\Debug\QuanLyHocVien.csproj.CoreCompileInputs.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapNangCao\Bai1\QuanLyHocVien\obj\Debug\QuanLyHocVien.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\BaiTapNangCao\Bai1\QuanLyHocVien\obj\Debug\QuanLyHocVien.pdb

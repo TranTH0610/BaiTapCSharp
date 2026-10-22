@@ -58,7 +58,7 @@ namespace QuanLyLop
               
             }
             // Mặc định chọn lớp đầu tiên
-            btnXoa.Enabled = false;
+            btnXoa.Enabled = true;
         }
 
         //Thêm lớp mới
@@ -104,33 +104,62 @@ namespace QuanLyLop
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
-            TreeNode node = treeDanhSachLop.SelectedNode;
-            if (node == null||!(node.Tag is SinhVien))
+            string maSV = txtMaSV.Text.Trim();
+
+            // Kiểm tra mã sinh viên
+            if (string.IsNullOrEmpty(maSV))
             {
-                MessageBox.Show("Chỉ được phép xóa node sinh viên!");
+                MessageBox.Show("Vui lòng nhập mã sinh viên cần xóa!");
+                txtMaSV.Focus();
                 return;
             }
-            DialogResult result = MessageBox.Show("Bạn có chắc chắn muốn xóa sinh viên " + node.Text + "?",
-        "Xác nhận xóa",
-        MessageBoxButtons.YesNo,
-        MessageBoxIcon.Question);
-            if (result == DialogResult.Yes)
+
+            TreeNode nodeGoc = treeDanhSachLop.Nodes[0];
+
+            // Duyệt qua tất cả các lớp
+            foreach (TreeNode nodeLop in nodeGoc.Nodes)
             {
-                node.Remove();
+                // Duyệt qua các sinh viên trong lớp
+                foreach (TreeNode nodeSV in nodeLop.Nodes)
+                {
+                    if (nodeSV.Tag is SinhVien sv &&
+                        string.Equals(sv.MaSV, maSV,
+                            StringComparison.OrdinalIgnoreCase))
+                    {
+                        DialogResult result = MessageBox.Show(
+                            "Bạn có chắc chắn muốn xóa sinh viên " + sv.HoTen + "?",
+                            "Xác nhận xóa",
+                            MessageBoxButtons.YesNo,
+                            MessageBoxIcon.Question);
 
-                txtMaSV.Clear();
-                txtHoTen.Clear();
-                txtDiaChi.Clear();
+                        if (result == DialogResult.Yes)
+                        {
+                            nodeSV.Remove();
 
-                btnXoa.Enabled = false;
+                            txtMaSV.Clear();
+                            txtHoTen.Clear();
+                            txtDiaChi.Clear();
+
+                            txtMaSV.Focus();
+
+                            MessageBox.Show("Xóa sinh viên thành công!");
+                        }
+
+                        return;
+                    }
+                }
             }
+
+            // Không tìm thấy mã sinh viên
+            MessageBox.Show("Không tìm thấy sinh viên có mã: " + maSV);
+            txtMaSV.Focus();
+            txtMaSV.SelectAll();
         }
 
         private void treeDanhSachLop_AfterSelect(object sender, TreeViewEventArgs e)
         {
             TreeNode node = e.Node;
 
-            btnXoa.Enabled = node.Tag is SinhVien;
 
             if (node.Tag is SinhVien sv)
             {

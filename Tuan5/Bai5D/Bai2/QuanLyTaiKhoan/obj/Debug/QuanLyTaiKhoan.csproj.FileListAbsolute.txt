@@ -1,0 +1,11 @@
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\Bai2\QuanLyTaiKhoan\bin\Debug\QuanLyTaiKhoan.exe.config
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\Bai2\QuanLyTaiKhoan\bin\Debug\QuanLyTaiKhoan.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\Bai2\QuanLyTaiKhoan\bin\Debug\QuanLyTaiKhoan.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\Bai2\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.csproj.AssemblyReference.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\Bai2\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.Form1.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\Bai2\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.Properties.Resources.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\Bai2\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.csproj.GenerateResource.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\Bai2\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.csproj.CoreCompileInputs.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\Bai2\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\Bai2\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan5\Bai5D\Bai2\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.exe.config

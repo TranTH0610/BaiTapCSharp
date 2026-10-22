@@ -1,0 +1,10 @@
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\Bai2\Diem_Combo\bin\Debug\Diem_Combo.exe.config
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\Bai2\Diem_Combo\bin\Debug\Diem_Combo.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\Bai2\Diem_Combo\bin\Debug\Diem_Combo.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\Bai2\Diem_Combo\obj\Debug\Diem_Combo.csproj.AssemblyReference.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\Bai2\Diem_Combo\obj\Debug\Diem_Combo.Form1.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\Bai2\Diem_Combo\obj\Debug\Diem_Combo.Properties.Resources.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\Bai2\Diem_Combo\obj\Debug\Diem_Combo.csproj.GenerateResource.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\Bai2\Diem_Combo\obj\Debug\Diem_Combo.csproj.CoreCompileInputs.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\Bai2\Diem_Combo\obj\Debug\Diem_Combo.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\Bai2\Diem_Combo\obj\Debug\Diem_Combo.pdb

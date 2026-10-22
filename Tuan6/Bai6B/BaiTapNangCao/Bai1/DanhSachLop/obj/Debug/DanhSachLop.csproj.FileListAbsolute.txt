@@ -1,0 +1,10 @@
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapNangCao\Bai1\DanhSachLop\bin\Debug\DanhSachLop.exe.config
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapNangCao\Bai1\DanhSachLop\bin\Debug\DanhSachLop.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapNangCao\Bai1\DanhSachLop\bin\Debug\DanhSachLop.pdb
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapNangCao\Bai1\DanhSachLop\obj\Debug\DanhSachLop.csproj.AssemblyReference.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapNangCao\Bai1\DanhSachLop\obj\Debug\DanhSachLop.Form1.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapNangCao\Bai1\DanhSachLop\obj\Debug\DanhSachLop.Properties.Resources.resources
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapNangCao\Bai1\DanhSachLop\obj\Debug\DanhSachLop.csproj.GenerateResource.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapNangCao\Bai1\DanhSachLop\obj\Debug\DanhSachLop.csproj.CoreCompileInputs.cache
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapNangCao\Bai1\DanhSachLop\obj\Debug\DanhSachLop.exe
+D:\2.C#C++\C #\BaiTap\BaiTapCSharp\Tuan6\Bai6B\BaiTapNangCao\Bai1\DanhSachLop\obj\Debug\DanhSachLop.pdb

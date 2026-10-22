@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.37502.11 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLySinhVien", "QuanLySinhVien\QuanLySinhVien.csproj", "{C6B04EDF-E30E-4E18-81E6-7A46CD1BA290}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyHocVien", "QuanLyHocVien\QuanLyHocVien.csproj", "{D80629D9-6D1C-4C55-A556-3282D8646B90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C6B04EDF-E30E-4E18-81E6-7A46CD1BA290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6B04EDF-E30E-4E18-81E6-7A46CD1BA290}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6B04EDF-E30E-4E18-81E6-7A46CD1BA290}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6B04EDF-E30E-4E18-81E6-7A46CD1BA290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D80629D9-6D1C-4C55-A556-3282D8646B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80629D9-6D1C-4C55-A556-3282D8646B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80629D9-6D1C-4C55-A556-3282D8646B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80629D9-6D1C-4C55-A556-3282D8646B90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {969FA400-BB1A-4257-AB57-C31145EDAEA7}
+		SolutionGuid = {C8CF0BB1-0B20-471D-A2ED-60A5E88D7CFE}
 	EndGlobalSection
 EndGlobal
